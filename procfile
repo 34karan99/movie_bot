@@ -1,1 +1,1 @@
-worker: python new_bot.py
+worker: python 3.9.6 new_bot.py
