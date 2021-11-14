@@ -3,5 +3,5 @@ numpy
 Updater
 Handler
 Filters
-MessageEntity
+telegram
 logging
