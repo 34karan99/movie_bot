@@ -1,8 +1,7 @@
 pandas
 numpy
 Updater
-CommandHandler
-MessageHandler
+Handler
 Filters
 MessageEntity
 logging
