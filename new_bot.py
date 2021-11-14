@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from telegram import MessageEntity
 import logging
 
-movies=pd.read_csv("E:\PYTHON\My bot\All_Streaming_Shows.csv")
+movies=pd.read_csv("All_Streaming_Shows.csv")
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
 
