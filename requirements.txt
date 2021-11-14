@@ -1,8 +1,5 @@
 pandas
 numpy
-Updater
-CommandHandler
-MessageHandler
-Filters
-MessageEntity
+telegram.ext
+telegram
 logging
